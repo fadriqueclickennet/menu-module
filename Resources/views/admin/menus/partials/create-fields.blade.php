@@ -1,0 +1,1 @@
+{!! Form::normalInput('name', trans('menu::menu.form.name'), $errors) !!}
